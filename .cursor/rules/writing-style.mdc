@@ -1,0 +1,9 @@
+---
+description: Writing standards for compositions (essays) and the Senior Thesis.
+globs:
+  - compositions/**/*.md
+  - thesis/**/*.md
+alwaysApply: false
+---
+
+Read and follow @AGENTS.md and @docs/agents/PROFILE.md. For this context, read @docs/agents/writing-style.md. Completion and learner evidence follow @docs/agents/tutoring.md.

@@ -1,0 +1,7 @@
+---
+description: Canonical structure and writing style for curriculum modules under notes/.
+globs: notes/**/*.md
+alwaysApply: false
+---
+
+Read and follow @AGENTS.md and @docs/agents/PROFILE.md. For this context, read @docs/agents/module-structure.md. Completion and learner evidence follow @docs/agents/tutoring.md.

@@ -1,0 +1,6 @@
+---
+description: Shared Great Books tutoring and evidence guidance.
+alwaysApply: true
+---
+
+Read and follow @AGENTS.md and @docs/agents/PROFILE.md. Before teaching, grading, diagnostics, or progress updates, read @docs/agents/tutoring.md. Canonical workflows live in `.agents/skills/`.
