@@ -1,0 +1,11 @@
+---
+description: Math notation and Python/notebook conventions for Mathematics, Natural Science, and Music modules.
+globs:
+  - notes/**/*.md
+  - notes/**/*.ipynb
+  - notes/**/*.py
+  - great/**/*.py
+alwaysApply: false
+---
+
+Read and follow @AGENTS.md and @docs/agents/PROFILE.md. For this context, read @docs/agents/math-and-code-style.md. Completion and learner evidence follow @docs/agents/tutoring.md.
